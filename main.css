@@ -1,0 +1,33 @@
+@charset 'utf-8';
+html {
+font-family: 'Neue Haas Grotesk Text Pro', sans-serif;
+}
+body {
+  background: /*#a9acb1;*/#ff3000;
+}
+.main {
+  position: relative;
+}
+.bottom-copyright {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  color: #000000;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  margin-top: 0.25vw;
+  font-size: 7px;
+  /*border: 1px solid green;*/
+}
+.description {
+  display:inline-flex;
+  /*border: 1px solid green;*/
+}
+.copyright {
+  display:inline-flex;
+  /*border: 1px solid green;*/
+}
+@media (min-width: 1024px) {
+
+}
