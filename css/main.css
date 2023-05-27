@@ -3,7 +3,7 @@ html {
 font-family: 'Neue Haas Grotesk Text Pro', sans-serif;
 }
 body {
-  background: /*#a9acb1;*/#ff3000;
+  background: /*#a9acb1;*/#7800c6;
 }
 .main {
   position: relative;
@@ -13,7 +13,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  color: #000000;
+  color: #ff3000;
   margin-left: 1vw;
   margin-right: 1vw;
   margin-top: 0.25vw;
